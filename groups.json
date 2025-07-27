@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Linux",
+        "color": "#FEE2E2",
+        "parent_id": null
+    },
+    {
+        "id": 2,
+        "name": "Ubuntu",
+        "color": "#DBEAFE",
+        "parent_id": 1
+    }
+]
