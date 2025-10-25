@@ -1,56 +1,38 @@
 [
     {
         "id": 1,
-        "name": "OS",
-        "color": "#FEE2E2",
+        "name": "coding",
+        "color": "#F3E8FF",
         "parent_id": null
     },
     {
         "id": 2,
-        "name": "Hardware",
-        "color": "#F3E8FF",
-        "parent_id": null
+        "name": "bash",
+        "color": "#FEE2E2",
+        "parent_id": 1
     },
     {
         "id": 3,
-        "name": "Code",
-        "color": "#DBEAFE",
-        "parent_id": null
+        "name": "python",
+        "color": "#FEE2E2",
+        "parent_id": 1
     },
     {
         "id": 4,
-        "name": "General",
-        "color": "#E0E7FF",
-        "parent_id": null
+        "name": "snippets",
+        "color": "#FEE2E2",
+        "parent_id": 1
     },
     {
         "id": 5,
-        "name": "MacOS",
-        "color": "#D1FAE5",
-        "parent_id": 1
+        "name": "howto",
+        "color": "#FEE2E2",
+        "parent_id": null
     },
     {
         "id": 6,
-        "name": "Ubuntu",
-        "color": "#FEF3C7",
-        "parent_id": 1
-    },
-    {
-        "id": 7,
-        "name": "Windows 11",
-        "color": "#F3E8FF",
-        "parent_id": 1
-    },
-    {
-        "id": 8,
-        "name": "Bash",
-        "color": "#FEF3C7",
-        "parent_id": 3
-    },
-    {
-        "id": 9,
-        "name": "Python",
+        "name": "macos",
         "color": "#FEE2E2",
-        "parent_id": 3
+        "parent_id": 5
     }
 ]
