@@ -2,37 +2,49 @@
     {
         "id": 1,
         "name": "coding",
-        "color": "#F3E8FF",
+        "color": "#FEE2E2",
         "parent_id": null
     },
     {
         "id": 2,
         "name": "bash",
-        "color": "#FEE2E2",
+        "color": "#F3E8FF",
         "parent_id": 1
     },
     {
         "id": 3,
         "name": "python",
-        "color": "#FEE2E2",
+        "color": "#D1FAE5",
         "parent_id": 1
     },
     {
         "id": 4,
-        "name": "snippets",
-        "color": "#FEE2E2",
+        "name": "vibecode",
+        "color": "#DBEAFE",
         "parent_id": 1
     },
     {
         "id": 5,
-        "name": "howto",
-        "color": "#FEE2E2",
+        "name": "OS",
+        "color": "#DBEAFE",
         "parent_id": null
     },
     {
         "id": 6,
-        "name": "macos",
-        "color": "#FEE2E2",
+        "name": "Linux",
+        "color": "#E0E7FF",
+        "parent_id": 5
+    },
+    {
+        "id": 7,
+        "name": "MacOS",
+        "color": "#D1FAE5",
+        "parent_id": 5
+    },
+    {
+        "id": 8,
+        "name": "Windows",
+        "color": "#DBEAFE",
         "parent_id": 5
     }
 ]
